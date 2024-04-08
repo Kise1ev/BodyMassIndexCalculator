@@ -1,7 +1,7 @@
 ﻿#include "BodyMassIndexCalculator.h"
 
 void userData() {
-	int height, weight;
+	int height = 0, weight = 0;
 
 	cout << "Enter your height in centimeters: ";
 	cin >> height;
